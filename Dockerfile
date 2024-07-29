@@ -20,7 +20,7 @@ RUN \
     faenza-icon-theme \
     faenza-icon-theme-xfce4-appfinder \
     faenza-icon-theme-xfce4-panel \
-    firefox \
+    thunderbird \
     mousepad \
     ristretto \
     thunar \
