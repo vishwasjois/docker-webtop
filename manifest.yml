@@ -82,9 +82,9 @@ metadata:
   name: thunderbird
   namespace: default
 spec:
-  clusterIP: 10.152.183.137
+  clusterIP: 10.152.183.143
   clusterIPs:
-    - 10.152.183.137
+    - 10.152.183.143
   externalIPs:
     - 10.0.10.134
   externalTrafficPolicy: Cluster
