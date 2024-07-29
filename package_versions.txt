@@ -129,7 +129,7 @@ filelist                                                                      1.
 finalhandler                                                                  1.2.0                                               npm                         
 findmnt                                                                       2.40.1-r1                                           apk                         
 findutils                                                                     4.9.0-r5                                            apk                         
-firefox                                                                       126.0.1-r0                                          apk                         
+thunderbird                                                                   128.0.1esr                                          apk                         
 flite                                                                         2.2-r2                                              apk                         
 flock                                                                         2.40.1-r1                                           apk                         
 font-dejavu                                                                   2.37-r5                                             apk                         
